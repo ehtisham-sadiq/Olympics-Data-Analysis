@@ -1,2 +1,6 @@
-# Olympics-Data-Analysis
-### I will be building an Olympics Data Analysis Web Application using Streamlit. For development, I will be using Python and Pandas. For plotting, I will be using Seaborn and Plotly libraries. The project will also be deployed to Heroku.
+# olympics-data-analysis-web-app
+A Streamlit web application for the analysis of olympics dataset
+
+Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+Live Demo: https://oda-campusx.herokuapp.com/
