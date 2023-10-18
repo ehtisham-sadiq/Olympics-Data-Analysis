@@ -1,4 +1,20 @@
 # olympics-data-analysis-web-app
+
+
+### Key Topics Covered
+
+- **Data Cleaning:** The project begins with thorough data cleaning, handling missing values, and ensuring data consistency to prepare it for analysis.
+
+- **Data Visualization:** Utilizing Python libraries such as Matplotlib and Seaborn, the project employs a variety of visualizations, including bar charts, line plots, scatter plots, and heatmaps to represent data patterns.
+
+- **Historical Trends:** Explore historical trends in Olympic participation, analyze the number of events over the years, and visualize the growth of the Games.
+
+- **Country Analysis:** Investigate the performance of different countries in the Olympics and visualize their medal counts over time.
+
+- **Athlete Insights:** Discover insights into the achievements of Olympic athletes, their age distributions, and the impact of gender on medal counts.
+
+- **Sports and Events:** Analyze popular sports and events, showcasing their growth and participation.
+
 ### A Streamlit web application for the analysis of olympics dataset
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
